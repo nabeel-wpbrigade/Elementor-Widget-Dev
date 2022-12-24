@@ -20,4 +20,3 @@ if ( ! defined( 'ABSPATH' ) ) {
 define( 'ELEMENTOR_DEV_PLUGIN_VERSION', '1.5' );
 
 include_once( plugin_dir_path( __FILE__ ) . 'elementor-widgets.php' );
-
